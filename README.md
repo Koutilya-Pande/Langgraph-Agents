@@ -9,3 +9,12 @@ Welcome to the LangGraph repository! This project showcases an automated essay g
 This repository contains a comprehensive implementation of an essay grading system utilizing LangGraph, demonstrating how the combination of structured workflows and large language models can streamline the assessment of student writing. 
 
 Each component of the grading system is designed to work seamlessly within the LangGraph framework, allowing for efficient processing and insightful evaluations. By automating the grading process, this project aims to enhance the consistency and objectivity of essay assessments, benefiting both educators and students.
+
+
+## Clone the Repository
+
+Clone this repository to your local machine:
+
+```bash
+git clone https://github.com/yourusername/swarm-agents.git
+cd swarm-agents
