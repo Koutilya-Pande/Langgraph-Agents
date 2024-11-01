@@ -43,7 +43,7 @@ The system follows a step-by-step approach to grade essays:
 Each step is conditionally executed based on the scores from previous steps, allowing for early termination of low-quality essays. This ensures that essays not meeting basic standards are flagged early, optimizing the grading process. The final score is a weighted average of all individual component scores, providing a comprehensive evaluation of the essay's quality.
 ## Workflow
 
-![Alt Text](essay_grading_system_langgraph.svg)
+![Alt Text](../essay_grading_system_langgraph.svg)
 
 
 
